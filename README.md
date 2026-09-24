@@ -11,7 +11,6 @@
 - 🎓 **Embedded Systems Engineering Student** at **[ENSTA Bretagne](https://www.ensta-bretagne.fr/en)** (2025–2028).
 - 💼 Former **Software Designer & Developer** at **[Enedis](https://www.enedis.fr/)** (2023–2025), building enterprise ERP applications with **Vue.js** and **Laravel**.
 - 🏫 Graduate of **BUT Informatique** at **[IUT Lannion](https://iut-lannion.univ-rennes.fr/)** (Data Administration, Management & Exploitation track).
-- 🎖️ Secondary school alumnus of **Lycée Naval de Brest**, aspiring to put my engineering skills at the service of the **defense and aerospace sectors**.
 - 🛠️ Passionate about tackling complex challenges, ranging from low-level embedded hardware and real-time C architectures to modern web applications.
 
 ---
